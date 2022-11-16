@@ -10,3 +10,5 @@ This framework is created as an object detector for customized dataset using YOL
 3. `pip install requirements`
 
 4. `python app.py` to start the app
+
+## Screenshots
