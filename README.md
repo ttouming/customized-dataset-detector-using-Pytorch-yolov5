@@ -7,6 +7,6 @@ This framework is created as an object detector for customized dataset using YOL
 
 2. cd to virtual environment
 
-3. 'pip install requirements'
+3. `pip install requirements`
 
-4. 'python app.py' to start the app
+4. `python app.py` to start the app
