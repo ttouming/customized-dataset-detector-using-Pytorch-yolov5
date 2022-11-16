@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 13
+names: ['apple', 'bee', 'blue duck', 'cookie', 'house', 'mouse', 'panda', 'red duck', 'smile', 'strawberry', 'sunglasses', 'sushi', 'yellow duck']
