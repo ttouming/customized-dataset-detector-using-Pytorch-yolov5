@@ -4,11 +4,10 @@ This framework is created as an object detector for customized dataset using YOL
 
 ## Installation
 1. create virtual environment
-
 2. cd to virtual environment
-
 3. `pip install requirements`
-
 4. `python app.py` to start the app
+5. <`127.0.0.1:5000`>
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/115144351/202193764-293561f1-bd1b-4ba3-992c-2f08d5bbb98e.png)
