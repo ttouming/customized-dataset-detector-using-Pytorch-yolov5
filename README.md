@@ -1,6 +1,6 @@
 # customized-dataset-detector-using-Pytorch-yolov5
 ## Description
-This framework is created as an object detector for customized dataset using YOLOV5 via Pytorch. Additionally, it used openCV to capture webcam stream data. It has a simple Python flask backend and HTML fronend. All the inferencing and frame capturing are done in backend.
+This framework is created as an object detector for customized Hama beads dataset using YOLOV5 via Pytorch. Additionally, it used openCV to capture webcam stream data. It has a simple Python flask backend and HTML fronend. All the inferencing and frame capturing are done in backend.
 
 ## Installation
 1. create virtual environment
